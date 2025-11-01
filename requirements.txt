@@ -1,0 +1,16 @@
+# --- Core Dependencies ---
+python-telegram-bot==20.8
+requests==2.32.3
+feedparser==6.0.11
+
+# --- Utility & Logging ---
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.10
+urllib3==2.2.3
+
+# --- Date & Time Handling ---
+python-dateutil==2.9.0.post0
+
+# --- Environment Management (Optional but Recommended) ---
+python-dotenv==1.0.1
